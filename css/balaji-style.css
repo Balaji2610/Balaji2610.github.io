@@ -1439,6 +1439,7 @@ body.loaded #preloader {
 	height:430px;
 	border: 1px solid #ddd;
     border-radius: 8px;
+    overflow: hidden;
 }	
 .detail-share{
 	padding: 28px;
